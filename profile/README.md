@@ -5,3 +5,5 @@ Integrated Projects class where all our code and technical discussions are
 hosted.
 
 Check out our website at [vip.bradley.edu](https://vip.bradley.edu)
+
+**Have a question?** -> Ask in our [discussions](https://github.com/orgs/ece398-buvip/discussions)
